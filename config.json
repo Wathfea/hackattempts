@@ -1,0 +1,13 @@
+{
+    "login_attempts": "10",
+    "time_limit": "600",
+    "protected_files": ["wp-login.php", "xmlrpc.php"],
+    "email_notify": "false",
+    "email_counter": "500",
+    "email_address": "support@getonline.ie",
+    "file_life_time": "3600",
+    "disable_login": "false",
+    "new_login_url": "",
+    "zpm_url": "",
+    "watched_files": []
+}

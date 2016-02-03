@@ -1,0 +1,13 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+ #wpadminbar  .hackattempts_top_menu > .ab-item::before {
+    content: " ";
+    background-image: url('../img/icon_wp.png') !important;
+    width: 20px;
+    height: 20px;
+    top: 7px;
+    background-repeat: no-repeat;
+}

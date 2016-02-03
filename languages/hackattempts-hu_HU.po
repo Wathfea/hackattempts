@@ -1,0 +1,200 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hackattempts v1.0\n"
+"POT-Creation-Date: 2015-11-12 15:50+0100\n"
+"PO-Revision-Date: 2015-11-12 15:51+0100\n"
+"Last-Translator: \n"
+"Language-Team: Zengo Ltd.\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: adminpage.php\n"
+"X-Poedit-SearchPath-1: hackattempts.php\n"
+
+#: adminpage.php:3
+msgid "Hackattempts Administration Panel"
+msgstr "Hackattempts Adminisztrációs Panel"
+
+#: adminpage.php:9
+msgid "Attacks"
+msgstr "Támadások"
+
+#: adminpage.php:10
+msgid "Settings"
+msgstr "Beállítások"
+
+#: adminpage.php:11
+msgid "Help"
+msgstr "Segítség"
+
+#: adminpage.php:20
+msgid "IP"
+msgstr "IP"
+
+#: adminpage.php:21
+msgid "COUNTRY"
+msgstr "ORSZÁG"
+
+#: adminpage.php:22
+msgid "CITY"
+msgstr "VÁROS"
+
+#: adminpage.php:23
+msgid "TIME"
+msgstr "IDŐPONT"
+
+#: adminpage.php:24
+msgid "FILE"
+msgstr "FÁJL"
+
+#: adminpage.php:25
+msgid "COUNTER"
+msgstr "SZÁMLÁLÓ"
+
+#: adminpage.php:26
+msgid "STATUS"
+msgstr "STÁTUSZ"
+
+#: adminpage.php:27
+msgid "OPTION"
+msgstr "OPCIÓK"
+
+#: adminpage.php:31
+msgid "Active"
+msgstr "Aktív"
+
+#: adminpage.php:33
+msgid "Banned"
+msgstr "Letiltott"
+
+#: adminpage.php:44
+msgid "Block"
+msgstr "Blokkolás"
+
+#: adminpage.php:46
+msgid "Unblock"
+msgstr "Engedélyezés"
+
+#: adminpage.php:49
+msgid "Firewall"
+msgstr "Tűzfal"
+
+#: adminpage.php:65
+msgid "Set login attempts"
+msgstr "Bejelentkezési beállítások"
+
+#: adminpage.php:68
+msgid "Attempts"
+msgstr "Próbálkozás"
+
+#: adminpage.php:70
+msgid "Time limit (in minute)"
+msgstr "Idő limit (percben)"
+
+#: adminpage.php:74
+msgid "allowed retries in"
+msgstr "engedélyezve"
+
+#: adminpage.php:75
+msgid "minutes"
+msgstr "percek"
+
+#: adminpage.php:80
+msgid "Protected files"
+msgstr "Védett fájlok"
+
+#: adminpage.php:84
+msgid "Add new:"
+msgstr "Új hozzáadása:"
+
+#: adminpage.php:86
+msgid "Add"
+msgstr "Hozzáad"
+
+#: adminpage.php:92
+msgid "File name"
+msgstr "Fájl neve"
+
+#: adminpage.php:93
+msgid "Option"
+msgstr "Beállítások"
+
+#: adminpage.php:98
+msgid "Remove"
+msgstr "Eltávolít"
+
+#: adminpage.php:105
+msgid "Notification"
+msgstr "Értesítés"
+
+#: adminpage.php:108
+msgid "Enable email notification"
+msgstr "E-mail értesítés bekapcsolása"
+
+#: adminpage.php:112
+msgid "Counter limit after send notification"
+msgstr "E-mail küldése ennyi próbálkozás után"
+
+#: adminpage.php:116
+msgid "Email address"
+msgstr "E-mail cím"
+
+#: adminpage.php:121
+msgid "Login settings"
+msgstr "Bejelentkezési beállítások"
+
+#: adminpage.php:124
+msgid "Disable wp-login.php"
+msgstr "wp-login.php kikapcsolása"
+
+#: adminpage.php:128
+msgid "New login url"
+msgstr "Az új bejelentkezési url"
+
+#: adminpage.php:136
+msgid "Cron Settings"
+msgstr "Cron beállítások"
+
+#: adminpage.php:137
+msgid "Set the log files lifetime (hour)"
+msgstr "Log fájlok megtartásának idő korlátja (óra)"
+
+#: adminpage.php:140
+msgid "Save"
+msgstr "Mentés"
+
+#: adminpage.php:150
+msgid "Do you have a question or need help?"
+msgstr "Kérdésed van vagy segítségre lenne szükséged?"
+
+#: adminpage.php:150
+msgid "Get answer on support forum"
+msgstr "Kapj választ a support fórumon."
+
+#: adminpage.php:151
+msgid "Do you have a suggestion?"
+msgstr "Ötleted, véleményed lenne?"
+
+#: adminpage.php:151
+msgid "Help us improve!"
+msgstr "Segíts fejlődnünk!"
+
+#: adminpage.php:152
+msgid "Are you ready to translate into your language?"
+msgstr "Készítenél fordítást a saját nyelvedre is?"
+
+#: adminpage.php:152
+msgid "Please notify us"
+msgstr "Kérünk értesíts minket!"
+
+#: hackattempts.php:264
+msgid "Hackattempts"
+msgstr "Hackattempts"
+
+#~ msgid "Set the file lifetime (hour)"
+#~ msgstr "Fájlok élettartama (óra)"
